@@ -42,6 +42,11 @@
   <img src="https://cdn.simpleicons.org/svg/FFB13B" height="30" alt="svg logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" alt="Java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+
 </div>
 
 ###
